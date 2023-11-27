@@ -33,7 +33,7 @@ monitors:
   - id: gist-aly-pet
     name: gist.aly.pet
     description: 'Gist clone'
-    url: 'https://gist.aly.pet/'
+    url: 'https://gist.aly.pet/all'
 
   - id: s3-aly-pet
     name: s3.aly.pet

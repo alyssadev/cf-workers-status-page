@@ -20,10 +20,10 @@ monitors:
     description: 'Public website'
     url: 'https://aly.pet/'
 
-  - id: home-aly-pet
-    name: home.aly.pet
-    description: 'Home frontend'
-    url: 'https://home.aly.pet'
+#  - id: home-aly-pet
+#    name: home.aly.pet
+#    description: 'Home frontend'
+#    url: 'https://home.aly.pet'
 
   - id: photos-aly-pet
     name: photos.aly.pet

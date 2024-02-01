@@ -25,10 +25,10 @@ monitors:
 #    description: 'Home frontend'
 #    url: 'https://home.aly.pet'
 
-  - id: photos-aly-pet
-    name: photos.aly.pet
-    description: 'Photos hosting'
-    url: 'https://photos.aly.pet/'
+#  - id: photos-aly-pet
+#    name: photos.aly.pet
+#    description: 'Photos hosting'
+#    url: 'https://photos.aly.pet/'
 
   - id: gist-aly-pet
     name: gist.aly.pet
